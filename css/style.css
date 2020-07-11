@@ -1,0 +1,35 @@
+h1{
+	font-family: sans-serif;
+	font-style: italic;
+	text-align: center;
+	font-size: 150%;
+	color: #3b6fff;
+	background-color: #000000;
+	border: dashed;
+    padding: 0%;
+    list-style: none;
+}
+nav{
+	text-align: center;
+	background-color: #f43636;
+	border: dashed;
+	padding: 0%;
+}
+body{
+   color: #000000;
+   background-color:#0975f473;
+   font-family: Times, Arial, Cursive;
+   border: double;
+   margin: 3px;
+   
+}
+section{
+	background-color: #f43636;
+	border: dashed;
+	display: inline-table;
+	float: left;
+	margin: 2px;
+}
+footer{
+    border: dashed;
+}

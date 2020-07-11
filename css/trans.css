@@ -1,0 +1,26 @@
+div{
+    /*box-sizing: border-box;*/
+    border: 3px solid #0000ff;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    transition: 2s ease;
+    text-align: center;
+}
+div:hover{
+    background: #ad00ff;
+    width: 200px;
+}
+div:focus{
+     background: #ffff00;  
+}
+.animate{
+    margin-left: 20px;
+    /*transform-style: preserve-3d;
+    transform:rotate3d(20,20,20,deg);*/
+}
+.animate:hover{
+    background: #ffff00;
+    transform-style: preserve-3d;
+    transform:rotate3d(20,20,20,deg);
+}

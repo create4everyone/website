@@ -1,0 +1,15 @@
+body{
+	margin: 30px;
+	border: outset;
+	border-color: #02aaee;
+	border-width: 20px;
+	border-radius: 50px;
+	background-image: url(project/download.jpg);
+}
+h1{
+	text-align: center;
+	border-style: groove;
+	border-radius: 20px;
+	border-width: 20px 20px 20px 20px;
+	border-color: #90af20;
+}
